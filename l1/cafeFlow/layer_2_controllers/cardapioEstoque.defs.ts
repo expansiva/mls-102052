@@ -447,7 +447,7 @@ export const definition = [
       "lowStockThresholdRule"
     ]
   }
-];
+]; 
 
 export const pipeline = [
   {
